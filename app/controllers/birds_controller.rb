@@ -5,6 +5,6 @@ class BirdsController < ApplicationController
   end
 
   def show
-    
+
   end
 end
