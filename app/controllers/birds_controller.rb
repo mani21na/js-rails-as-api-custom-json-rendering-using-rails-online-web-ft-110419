@@ -3,4 +3,8 @@ class BirdsController < ApplicationController
     @birds = Bird.all
     render json: @birds
   end
+
+  def show
+    
+  end
 end
